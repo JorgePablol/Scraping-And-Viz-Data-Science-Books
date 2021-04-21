@@ -1,2 +1,2 @@
 # Scraper-Data-Science-Library
-On this project we scrape amazon.com.mx data science books database
+IM UPDATING THIS REPOSITORY 21 APRIL 2021
