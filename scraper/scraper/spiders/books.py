@@ -34,7 +34,7 @@ class SpiderBooks(scrapy.Spider):
 
     custom_settings = {
         'USER_AGENT': 'Mozilla5.0',
-        'FEED_URI': 'ds_books_MX_january.json',
+        'FEED_URI': 'ds_books_MX_april.json',
         'FEED_FORMAT': 'json',
         'FEED_EXPORT_ENCODING': 'utf-8',
 	'DOWNLOAD_DELAY': 0.5,
