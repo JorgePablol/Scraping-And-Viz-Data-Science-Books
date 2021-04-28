@@ -53,21 +53,21 @@ This project was so interesting and I love it that's why is part of my portfolio
 
 
 # [Scraping](#Table-Of-Contents)
-Scrapy for Python 3.7 was the key framework to scrape all the data, you can find the spider [here](Web-Scraping-and-Data-Analysis-with-Tableau/scraper/scraper/spiders/books.py)
+Scrapy for Python 3.7 was the key framework to scrape all the data, you can find the spider [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/books.py)
 
 I will add some photos of the scraping but for deeper thoughts go to the file.
 
 ![scraping](https://user-images.githubusercontent.com/58957744/116435952-86897d80-a811-11eb-8236-521fd646cd00.png)
 
 # [Cleaning](#Table-Of-Contents)
-The data was cleaned on a jupyter notebook that can be found [here](link) 
+The data was cleaned on a jupyter notebook that can be found [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/Wrangling.ipynb) 
 
 As you can read on the next image the process is described and modularized the key library here was pandas.
 
 ![cleaning](https://user-images.githubusercontent.com/58957744/116435956-87221400-a811-11eb-94b0-e5a3af5e13e6.png)
 
 # [Analysis](#Table-Of-Contents)
-This kind of data is more descriptive in terms of showing the different books by querying the data more than applying statistical techniques to describe the data, so the analysis file is filled with queries. You can go to the entire file [here]()
+This kind of data is more descriptive in terms of showing the different books by querying the data more than applying statistical techniques to describe the data, so the analysis file is filled with queries. You can go to the entire file [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/Data_Analysis_MX_2.ipynb)
 
 ![analysis](https://user-images.githubusercontent.com/58957744/116435954-87221400-a811-11eb-9ae8-33478fb8817a.png)
 
