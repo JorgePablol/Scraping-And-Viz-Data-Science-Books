@@ -12,15 +12,15 @@ If the results seduce you, go to the complete viz on that link.
 
 ![best](https://user-images.githubusercontent.com/58957744/116431835-c189b200-a80d-11eb-8d52-e9a4e8d09998.png)
 
-## [Good Books](#Table-Of-Contents) (less than 50 reviews)
+## [Good Books](#Table-Of-Contents) 
 
 ![good](https://user-images.githubusercontent.com/58957744/116431839-c2224880-a80d-11eb-904c-50cf7cef916b.png)
 
-## [Possible Surprises](#Table-Of-Contents) (not so popular neither the highest rated books)
+## [Possible Surprises](#Table-Of-Contents)
 
 ![sur](https://user-images.githubusercontent.com/58957744/116431845-c2badf00-a80d-11eb-804e-050e8285031a.png)
 
-## [The Worst Books](#Table-Of-Contents) (by stars and reviews)
+## [The Worst Books](#Table-Of-Contents)
 
 ![worst](https://user-images.githubusercontent.com/58957744/116431849-c3537580-a80d-11eb-9d7b-3bcc4fb6ac74.png)
 
