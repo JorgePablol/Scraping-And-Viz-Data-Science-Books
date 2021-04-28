@@ -30,7 +30,7 @@ If the results seduce you, go to the complete viz on that link.
 
 This project was so interesting and I love it that's why is part of my portfolio, I did entirely from the scraper with scrapy to the visualizations with tableau, hope you have found an interesting book.
 
-#Table Of Contents
+# Table Of Contents
 * [Results](#Results)
 * [Scraping](#Scraping)
 * [Cleaning](#Cleaning)
