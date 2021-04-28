@@ -9,19 +9,24 @@ I will put some screenshots of the visualization in tableau, I think in this cas
 If the results seduce you, go to the complete viz on that link.
 
 ## The best books
-![Sin título](https://user-images.githubusercontent.com/58957744/116408795-d60f7f80-a7f8-11eb-8aa8-90e803d59031.png)
+
+![best](https://user-images.githubusercontent.com/58957744/116431835-c189b200-a80d-11eb-8d52-e9a4e8d09998.png)
 
 ## Good books not very popular (less than 50 reviews)
 
-![2](https://user-images.githubusercontent.com/58957744/116408790-d4de5280-a7f8-11eb-99b4-9147644336e5.png)
+![good](https://user-images.githubusercontent.com/58957744/116431839-c2224880-a80d-11eb-904c-50cf7cef916b.png)
+
+## Possible surprises not so popular neither the highest rated books
+
+![sur](https://user-images.githubusercontent.com/58957744/116431845-c2badf00-a80d-11eb-804e-050e8285031a.png)
 
 ## The worst books (by stars and reviews)
 
-![worst](https://user-images.githubusercontent.com/58957744/116409149-2e468180-a7f9-11eb-9854-a44f9d968c75.png)
+![worst](https://user-images.githubusercontent.com/58957744/116431849-c3537580-a80d-11eb-9d7b-3bcc4fb6ac74.png)
 
 ## Stars distribution
 
-![6](https://user-images.githubusercontent.com/58957744/116408793-d60f7f80-a7f8-11eb-98e7-d91e30e8e33d.png)
+![stardist](https://user-images.githubusercontent.com/58957744/116432025-ebdb6f80-a80d-11eb-94a2-b03260e1be19.png)
 
 This project was so interesting and I love it that's why is part of my portfolio, I did entirely from the scraper with scrapy to the visualizations with tableau, hope you have found an interesting book.
 
