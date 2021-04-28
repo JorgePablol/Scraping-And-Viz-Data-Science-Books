@@ -44,9 +44,9 @@ This project was so interesting and I love it that's why is part of my portfolio
 
 # [Tools And Libraries](#Table-Of-Contents)
 * Python 3.7
-* Scrapy 
+* Scrapy 2.2.1
 * Tableau 2021.1
-* Pandas 
+* Pandas 1.1.3
 * Jupyter Notebook
 
 
