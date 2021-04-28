@@ -37,12 +37,35 @@ This project was so interesting and I love it that's why is part of my portfolio
     * [Possible Surprises](#Possible-Surprises)
     * [The Worst Books](#The-Worst-Books)
     * [Stars Distribution](#Stars-Distribution)
+* [Tools And Libraries](#Tools-And-Libraries)
 * [Scraping](#Scraping)
 * [Cleaning](#Cleaning)
 * [Visualization](#Visualization)
 
+# [Tools And Libraries](#Table-Of-Contents)
+* Python 3.7
+* Scrapy 
+* Tableau
+* Pandas
+* Matplotlib
+* Numpy
+* Jupyter Notebook
+
+
 # [Scraping](#Table-Of-Contents)
-The scraping was done entirely with scrapy framework for python 3.7, the spider which is the document that scrapes the information can be found **Web-Scraping-and-Data-Analysis-with-Tableau/scraper/scraper/spiders/books.py** The spider is books.py. There you will see the way I scraped the library.
+Scrapy for Python 3.7 was the key framework to scrape all the data, you can find the spider [here](Web-Scraping-and-Data-Analysis-with-Tableau/scraper/scraper/spiders/books.py)
+I will add some photos of the scraping but for deeper thoughts go to the file.
+
+![scraping](https://user-images.githubusercontent.com/58957744/116435952-86897d80-a811-11eb-8236-521fd646cd00.png)
 
 # [Cleaning](#Table-Of-Contents)
 The data was cleaned on a jupyter notebook that can be found [here](link) 
+As you can read on the next image the process is described and modularized the key library here was pandas.
+
+![cleaning](https://user-images.githubusercontent.com/58957744/116435956-87221400-a811-11eb-94b0-e5a3af5e13e6.png)
+
+# [Analysis](#Table-Of-Contents)
+This kind of data is more descriptive in terms of showing the different books by querying the data more than applying statistical techniques to describe the data, so the analysis file is filled with queries. You can go to the entire file [here]()
+
+![analysis](https://user-images.githubusercontent.com/58957744/116435954-87221400-a811-11eb-9ae8-33478fb8817a.png)
+
