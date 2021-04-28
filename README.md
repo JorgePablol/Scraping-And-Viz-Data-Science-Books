@@ -72,4 +72,4 @@ This kind of data is more descriptive in terms of showing the different books by
 ![analysis](https://user-images.githubusercontent.com/58957744/116435954-87221400-a811-11eb-9ae8-33478fb8817a.png)
 
 # [Visualization](#Table-Of-Contents)
-The whole visualization work was done in tableau public, I highly recommend watching the whole report [here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+The whole visualization work was done in tableau public, I highly recommend watching the whole report [here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link) use full screen mode so the tables fit the view.
