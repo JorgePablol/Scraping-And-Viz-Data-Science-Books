@@ -1,3 +1,6 @@
+![am](https://user-images.githubusercontent.com/58957744/122480068-c6f3b500-cf91-11eb-9583-ab3d5a5684c0.png)
+
+
 # [Web Scraping And Data Analysis Amazon's Data Science Library](#Table-Of-Contents)
 On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
 Anyway this is an interesting project to take the best decision on what book to read, hopefully another data related person will take a look to my project and select the best book for him or her.
