@@ -12,20 +12,26 @@ If the results seduce you, go to the complete viz on that link.
 
 ## The Best Books
 
+![Screenshot from 2021-06-21 12-29-31](https://user-images.githubusercontent.com/58957744/122803980-edb13480-d28c-11eb-9cc4-282fb07a0864.png)
 
 
 ## Good Books
 
+![Screenshot from 2021-06-21 12-34-23](https://user-images.githubusercontent.com/58957744/122804120-1cc7a600-d28d-11eb-9da2-d907f7c6e9b6.png)
 
 
 ## Possible Surprises
 
+![Screenshot from 2021-06-21 12-29-37](https://user-images.githubusercontent.com/58957744/122803813-bcd0ff80-d28c-11eb-9633-59e95579168d.png)
+
 
 ## The Worst Books
 
+![Screenshot from 2021-06-21 12-30-07](https://user-images.githubusercontent.com/58957744/122803907-d83c0a80-d28c-11eb-9510-e9925eafbdda.png)
 
 
 ## Stars Distribution
+![Screenshot from 2021-06-21 12-29-46](https://user-images.githubusercontent.com/58957744/122803712-96ab5f80-d28c-11eb-9daa-0527279acd71.png)
 
 This project was so interesting and I love it that's why is part of my portfolio, I did entirely from the scraper with scrapy to the visualizations with tableau, hope you have found an interesting book.
 
