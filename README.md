@@ -13,23 +13,20 @@ If the results seduce you, go to the complete viz on that link.
 
 ## [The Best Books](#Table-Of-Contents)
 
-![best](https://user-images.githubusercontent.com/58957744/116431835-c189b200-a80d-11eb-8d52-e9a4e8d09998.png)
+
 
 ## [Good Books](#Table-Of-Contents) 
 
-![good](https://user-images.githubusercontent.com/58957744/116431839-c2224880-a80d-11eb-904c-50cf7cef916b.png)
+
 
 ## [Possible Surprises](#Table-Of-Contents)
 
-![sur](https://user-images.githubusercontent.com/58957744/116431845-c2badf00-a80d-11eb-804e-050e8285031a.png)
 
 ## [The Worst Books](#Table-Of-Contents)
 
-![worst](https://user-images.githubusercontent.com/58957744/116431849-c3537580-a80d-11eb-9d7b-3bcc4fb6ac74.png)
+
 
 ## [Stars Distribution](#Table-Of-Contents)
-
-![stardist](https://user-images.githubusercontent.com/58957744/116432025-ebdb6f80-a80d-11eb-94a2-b03260e1be19.png)
 
 This project was so interesting and I love it that's why is part of my portfolio, I did entirely from the scraper with scrapy to the visualizations with tableau, hope you have found an interesting book.
 
