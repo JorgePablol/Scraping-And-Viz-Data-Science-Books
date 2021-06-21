@@ -1,48 +1,47 @@
 ![am](https://user-images.githubusercontent.com/58957744/122480068-c6f3b500-cf91-11eb-9583-ab3d5a5684c0.png)
 
 
-# [Web Scraping And Data Analysis Amazon's Data Science Library](#Table-Of-Contents)
+# Web Scraping And Data Analysis Amazon's Data Science Library
 On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
 Anyway this is an interesting project to take the best decision on what book to read, hopefully another data related person will take a look to my project and select the best book for him or her.
 
-You can see the results below or go directly to the [table of contents](#Table-Of-Contents)
 
-# [Results](#Table-Of-Contents)
+# Results
 I will put some screenshots of the visualization in tableau, I think in this case it's better to explore the entire [visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 If the results seduce you, go to the complete viz on that link.
 
-## [The Best Books](#Table-Of-Contents)
+## The Best Books
 
 
 
-## [Good Books](#Table-Of-Contents) 
+## Good Books
 
 
 
-## [Possible Surprises](#Table-Of-Contents)
+## Possible Surprises
 
 
-## [The Worst Books](#Table-Of-Contents)
+## The Worst Books
 
 
 
-## [Stars Distribution](#Table-Of-Contents)
+## Stars Distribution
 
 This project was so interesting and I love it that's why is part of my portfolio, I did entirely from the scraper with scrapy to the visualizations with tableau, hope you have found an interesting book.
 
 # Table Of Contents
-* [Results](#Results)
-    * [The Best Books](#The-Best-Books)
-    * [Good Books](#Good-Books)
-    * [Possible Surprises](#Possible-Surprises)
-    * [The Worst Books](#The-Worst-Books)
-    * [Stars Distribution](#Stars-Distribution)
-* [Tools And Libraries](#Tools-And-Libraries)
-* [Scraping](#Scraping)
-* [Cleaning](#Cleaning)
-* [Visualization](#Visualization)
+* Results
+    * The Best Books
+    * Good Books
+    * Possible Surprises
+    * The Worst Books
+    * Stars Distribution
+* Tools And Libraries
+* Scraping
+* Cleaning
+* Visualization
 
-# [Tools And Libraries](#Table-Of-Contents)
+# Tools And Libraries
 * Python 3.7
 * Scrapy 2.2.1
 * Tableau 2021.1
@@ -50,24 +49,24 @@ This project was so interesting and I love it that's why is part of my portfolio
 * Jupyter Notebook
 
 
-# [Scraping](#Table-Of-Contents)
+# Scraping
 Scrapy for Python 3.7 was the key framework to scrape all the data, you can find the spider [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/books.py)
 
 I will add some photos of the scraping but for deeper thoughts go to the file.
 
 ![scraping](https://user-images.githubusercontent.com/58957744/116435952-86897d80-a811-11eb-8236-521fd646cd00.png)
 
-# [Cleaning](#Table-Of-Contents)
+# Cleaning
 The data was cleaned on a jupyter notebook that can be found [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/Wrangling.ipynb) 
 
 As you can read on the next image the process is described and modularized the key library here was pandas.
 
 ![cleaning](https://user-images.githubusercontent.com/58957744/116435956-87221400-a811-11eb-94b0-e5a3af5e13e6.png)
 
-# [Analysis](#Table-Of-Contents)
+# Analysis
 This kind of data is more descriptive in terms of showing the different books by querying the data more than applying statistical techniques to describe the data, so the analysis file is filled with queries. You can go to the entire file [here](https://github.com/JorgePablol/Web-Scraping-and-Data-Analysis-with-Tableau/blob/master/scraper/scraper/spiders/Data_Analysis_MX_2.ipynb)
 
 ![analysis](https://user-images.githubusercontent.com/58957744/116435954-87221400-a811-11eb-9ae8-33478fb8817a.png)
 
-# [Visualization](#Table-Of-Contents)
+# Visualization
 The whole visualization work was done in tableau public, I highly recommend watching the whole report [here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link) use full screen mode so the tables fit the view.
